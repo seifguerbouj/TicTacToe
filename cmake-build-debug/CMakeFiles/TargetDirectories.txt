@@ -1,3 +1,0 @@
-/home/ecog/Documents/TicTacToe/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/ecog/Documents/TicTacToe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/ecog/Documents/TicTacToe/cmake-build-debug/CMakeFiles/TicTacToe.dir
